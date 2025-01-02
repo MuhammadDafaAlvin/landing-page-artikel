@@ -150,6 +150,10 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+body footer .dark-mode {
+  border-top: 3px solid #8c8b8b;
+}
+
 nav,
 .hero-header,
 .paragraf-primary,
